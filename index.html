@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; base-uri 'none'; form-action 'none'" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='4' fill='%230B2D4A'/%3E%3Cpath d='M4 8l3 3 5-6' fill='none' stroke='%23F5A623' stroke-width='2'/%3E%3C/svg%3E" />
+    <title>Safe tx check</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Safe tx check</h1>
+        <button id="example" type="button" class="ghost">Bybit example</button>
+      </header>
+      <form id="form" autocomplete="off"></form>
+      <section id="result" class="card" aria-live="polite"></section>
+      <footer>
+        <span>No network, no wallet</span>
+        <span class="info" title="This page is a single document stored on Ethereum. Its Content-Security-Policy blocks every connection, so nothing you paste can leave it. Everything is computed here.">i</span>
+        <span class="spacer"></span>
+        <span>Served from Ethereum by Navik</span>
+      </footer>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

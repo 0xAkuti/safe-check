@@ -1,0 +1,6 @@
+{
+  "project": "safe-check",
+  "build": "pnpm install --frozen-lockfile && pnpm build",
+  "output": "dist",
+  "compress": false
+}

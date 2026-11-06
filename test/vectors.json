@@ -1,0 +1,233 @@
+[
+  {
+    "safeVersion": "0.1.0",
+    "version": "pre-1.0",
+    "chainId": "31337",
+    "safe": "0x7D14C1996474BE3bB103A132EF253c212878AAc1",
+    "to": "0xFbea76c45717eD5778660aCBdeF0951033B5EFD6",
+    "value": "113",
+    "data": "0xb4f993c3371309",
+    "operation": "1",
+    "safeTxGas": "77",
+    "baseGas": "161",
+    "gasPrice": "2105292910601655918",
+    "gasToken": "0x860FE91B4a816EC781f820f3e7EF7F4bF913D512",
+    "refundReceiver": "0xd9b69DAf492636B8C6CF9E522D18421f2cED1ad6",
+    "nonce": "18",
+    "expected": {
+      "domain": "0x474beecc1c4fd17991571519d05c5e54b9344ab019956259f3d26ee9d65b78e2",
+      "safeTx": "0x8bf82624fd4254e31b4aa9ec003c91abad7488764e5bcd9074a51ea86ebb7ac6",
+      "message": "0xeab7840be558cb0ee1e98ef357b139e1b0b97af135b73ff94f30b80e8e24321e"
+    }
+  },
+  {
+    "safeVersion": "1.0.0",
+    "version": "pre-1.3",
+    "chainId": "31337",
+    "safe": "0x8DC0d21471395ac645EB4002dD22600F1cA05FEe",
+    "to": "0xb13DB05918d9C0F6df32A93Ec902c243a0FA8f5f",
+    "value": "166",
+    "data": "0x72485126157a89",
+    "operation": "1",
+    "safeTxGas": "9",
+    "baseGas": "25",
+    "gasPrice": "1373020640932016948",
+    "gasToken": "0x685519cabB309A6673d42a62Cb2a35fa15a314f6",
+    "refundReceiver": "0x1Ad35aB5c532A95cb45fcE535e9f2655d7fAeFEa",
+    "nonce": "42",
+    "expected": {
+      "domain": "0x56d1ce1cb54c6fc426784121c4729bccdfe8e5d423dfbc98ad362974d620c14a",
+      "safeTx": "0x6e039a4f244431cec92698f72656992e5b63b048c595cfc8e2b4d756eff068d6",
+      "message": "0xdae799c2f0706eefe0ccaf4143d79e8eeb2ad3d3d3ab6f3dbd13e184207c4aa8"
+    }
+  },
+  {
+    "safeVersion": "1.1.0",
+    "version": "pre-1.3",
+    "chainId": "31337",
+    "safe": "0xC3452b0F46481D79954959bD8b3d59b598a47b22",
+    "to": "0xbde22B5A659e089Ce28255Fddc73d723b2BE2b8B",
+    "value": "139",
+    "data": "0x1b81b00fd50dac",
+    "operation": "1",
+    "safeTxGas": "158",
+    "baseGas": "202",
+    "gasPrice": "8201183458494372768",
+    "gasToken": "0xf38FAB6ede8fa6328F9eC4b97c57404F6dc26D1b",
+    "refundReceiver": "0x4ec68C57c512C964c5adAA3Fe5C05d3D5C7279Bc",
+    "nonce": "62",
+    "expected": {
+      "domain": "0x238adbc456183d0ab3408724cbd4f3163f56796693602dfbdececf45e302e0ed",
+      "safeTx": "0x4cf5f8e2eaf2fed696f53ae712726b464b53410618d36e4c44c1bed0c4cbdd2d",
+      "message": "0x69eb6a51091297c70e962f45f78dd4e7a48c2eb628f4d8a56fa4826d5ea53af8"
+    }
+  },
+  {
+    "safeVersion": "1.1.1",
+    "version": "pre-1.3",
+    "chainId": "31337",
+    "safe": "0xd460bF3Bf5Cc0e326f6d4609EE047B43BB4eb0bB",
+    "to": "0x111e43c6d60874430CC43cEd834dc619a0118300",
+    "value": "98",
+    "data": "0x771353793fa213",
+    "operation": "1",
+    "safeTxGas": "66",
+    "baseGas": "43",
+    "gasPrice": "4944283428852819787",
+    "gasToken": "0xcB8539b4E523D6b75064EB3a25A32D0F323eB8B9",
+    "refundReceiver": "0x3B5bd4DCd0f008f3606Ba41e577e57225DE138F3",
+    "nonce": "71",
+    "expected": {
+      "domain": "0xeee582d00a541072519d019399b0f3fec08ef63fcf47ea97e3de2dc2ae019f26",
+      "safeTx": "0xa80a7e81374d92caf90761dcf053a6a6eadf6ae623471fb3585fd4219a465a67",
+      "message": "0x3a19b4be97b2548a41d28ca4277b6e1f3c5154bfa43b1eb7966b2a7c78748e74"
+    }
+  },
+  {
+    "safeVersion": "1.2.0",
+    "version": "pre-1.3",
+    "chainId": "31337",
+    "safe": "0x59C00bE0198ECB1dAdF1b3A3ae0633e461761FB5",
+    "to": "0xdE841763f8EdC6B59Bb95AaCC92d3718fB1F7721",
+    "value": "174",
+    "data": "0xaa7a5de9541e80",
+    "operation": "1",
+    "safeTxGas": "8",
+    "baseGas": "90",
+    "gasPrice": "11049595302386935057",
+    "gasToken": "0x8EC4Dc610aa6B6edfd1e313bd43e9C812f5d7279",
+    "refundReceiver": "0x100EbCB277D6eFc81d231DB188eDbe40c3D0D1ba",
+    "nonce": "79",
+    "expected": {
+      "domain": "0xaee4230b178beafa77f9a9e01f6807694b9d3126597f88ef5a4b33360b439b7a",
+      "safeTx": "0x91222c94222172a2056879f921bb6ed4ecccda8482b613a9a7b43ee6d1b56711",
+      "message": "0x6028ad745677014a046120bd9a8f687575a90f517b5d92d5ce89de126c85a4f5"
+    }
+  },
+  {
+    "safeVersion": "1.3.0",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0x94C37808849bBDB4Da5AaA4e7f12d10dF0dA7d3C",
+    "to": "0xfacf714688D4Da8Df37D7587E73cB12CFd14Ff83",
+    "value": "81",
+    "data": "0x4a1838e28806c2",
+    "operation": "1",
+    "safeTxGas": "119",
+    "baseGas": "176",
+    "gasPrice": "18344612245235806708",
+    "gasToken": "0x12447764a2f4eC6f51e7141CC978f0a4b659915f",
+    "refundReceiver": "0x48739b1b3d29A3B7b80ac97479e3A3e7e349eD27",
+    "nonce": "120",
+    "expected": {
+      "domain": "0x6e57f90a78f1582529f0f56851e299b47322981d77259a70c024733a1373d059",
+      "safeTx": "0x23dc534c80445980730ce6420ba2282a3dcbe04ffaecabedf6b3600573a49b1a",
+      "message": "0xe5e3da85b4d5aeef58430722adb8dbe8d0d6128eb0c2ac3a2316f65b47a82f9d"
+    }
+  },
+  {
+    "safeVersion": "1.3.0",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0xBebEE17cae59ae56AEC3496E8194029573F0cb27",
+    "to": "0xb70eC6D69a3998714c33d07586533a093983Ea76",
+    "value": "33",
+    "data": "0xb80b9bf384ec8d",
+    "operation": "1",
+    "safeTxGas": "17",
+    "baseGas": "209",
+    "gasPrice": "7602671805199957825",
+    "gasToken": "0x7cb645a9f440C5e1966014DA194aAa9EB22d511b",
+    "refundReceiver": "0x1a4c459DC0A0191aD70490514ab0F6337eB07c5B",
+    "nonce": "77",
+    "expected": {
+      "domain": "0x610c216583e4365fa3971af1b6e11e10d1359719845767d51cf330ef19db4053",
+      "safeTx": "0xd802c02238631c3ffbc8ae7c6f7ecdf1d61d4aed82d67bb11bf5d414441d7c37",
+      "message": "0xef689e94a6ca8e4051a962658f26994da1debec60afc74f2a3cd27e2a29daf5c"
+    }
+  },
+  {
+    "safeVersion": "1.4.1",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0x7D75b30B7e327b865e6C3d274fc83043571c4b69",
+    "to": "0x6B96fC4ea754c2b8c77126a5A43b430bD994c0eF",
+    "value": "69",
+    "data": "0x8030aad9221d61",
+    "operation": "1",
+    "safeTxGas": "226",
+    "baseGas": "108",
+    "gasPrice": "18244276847890795743",
+    "gasToken": "0x16041Ebe8c23f633b66B83dA8212c162dcf48Ef3",
+    "refundReceiver": "0x516cd6E79766A56987cE16c82F75010E04419Cb6",
+    "nonce": "180",
+    "expected": {
+      "domain": "0x10c8b9c0794375f989160796c9f1b255d0617e4b87e8d55a74dc1ea018b35a41",
+      "safeTx": "0x52afe29f28181d6f4f4b95ba63b5ffb720688a553166c4f5240e092bf84d6a35",
+      "message": "0xfab7aa001f8f98753d8e62294c13b9731fba2b41fe9f1108764f356f0936b384"
+    }
+  },
+  {
+    "safeVersion": "1.4.1",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0xa4A6287F14374cD78F04e4aA5729A1E0506b0583",
+    "to": "0x7917e59aB3dDb17Ae597EeA4B8E30d089ED85A49",
+    "value": "115",
+    "data": "0x2b8fb1f776ae86",
+    "operation": "1",
+    "safeTxGas": "32",
+    "baseGas": "23",
+    "gasPrice": "3515753288792837344",
+    "gasToken": "0x2625beE416584EC8FAe9c58d11fD4683D5Bc14e9",
+    "refundReceiver": "0xE237a2812A054EAe8ca18BAFe8d6Da52dAAc05EC",
+    "nonce": "205",
+    "expected": {
+      "domain": "0xcb99d0bc92caf67d9a3e3b68de790a33f61dc2688eac214a76e18a41465983f0",
+      "safeTx": "0xe60022e40b95c7779f0d35965d0bd744a625a4deb9edca0f8b1afa8ae5ee8326",
+      "message": "0x0f38efaa37bc88acdbf7ec614ae01703084448573fc1e826d00bdc685a6a3c59"
+    }
+  },
+  {
+    "safeVersion": "1.5.0",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0x3CB0865aD57200B8C34fc897Cb1ddA407C622046",
+    "to": "0xbe9fcA584B97C7f369C0f71a74f1A020Df0fFD08",
+    "value": "139",
+    "data": "0xf5fb23acf04bc4",
+    "operation": "1",
+    "safeTxGas": "29",
+    "baseGas": "76",
+    "gasPrice": "13288796312160017843",
+    "gasToken": "0x54DdC98BcE4b45e2EBeaA95Af3F800CC8fb887df",
+    "refundReceiver": "0xEbE35DaA1740FF898765839FeFeF60F5f9C91B50",
+    "nonce": "218",
+    "expected": {
+      "domain": "0x68e6e8fa0ac130f4e4ded4e31bc93ba7c38815b3be79093f722084b84cb116a8",
+      "safeTx": "0xf86762a7ce3dcc27f7d40cd99cd11a1f5f1e6f147d36488081c50198b80e3af1",
+      "message": "0x1bf0c4168b85d426a42702cd4be0a60af91985640d5f11d8ccfa76159258a4c4"
+    }
+  },
+  {
+    "safeVersion": "1.5.0",
+    "version": "current",
+    "chainId": "31337",
+    "safe": "0x0D0aDc7F85fd0a9bD4D853c32088C7AD0665f8F6",
+    "to": "0xD1EeF1107Fc43d4901dcB83378Beda816d4C8b2c",
+    "value": "111",
+    "data": "0x48bc10de3a506c",
+    "operation": "1",
+    "safeTxGas": "31",
+    "baseGas": "16",
+    "gasPrice": "863393008712475028",
+    "gasToken": "0xD05C93f91256005e5404091f52a4d7Cc549a7E72",
+    "refundReceiver": "0xFaE3Cf90771094d8b2d0C371C0D7Fe58dE35Fb93",
+    "nonce": "150",
+    "expected": {
+      "domain": "0xfc533eae5f4eab55aafdca5f79632b6bf421f75e428bb97bdbe5b9a2d5a27fb3",
+      "safeTx": "0x0f7a6eccdd3792b1978859ff4b70aff117ea8b4f23904f010f94584e0941bf64",
+      "message": "0xb59282c6d6f5c3594aeaaa3aad11e7709e32d279e86951db2179bc1ddfa57506"
+    }
+  }
+]
